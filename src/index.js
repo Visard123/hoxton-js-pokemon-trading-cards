@@ -68,7 +68,7 @@ createCard(
 
   liEl.append(nameEl,avatarEl,ulEl)
 
-  const listEl = document.querySelector('.card')
+  const listEl = document.querySelector('.cards')
   listEl.append(liEl)
 
 
